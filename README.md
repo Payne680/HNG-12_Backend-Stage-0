@@ -66,7 +66,7 @@ fetch('http://127.0.0.1:3000/')
 ```
 
 ## Deployment
-The API is hosted at: [https://hng-12-backend-stage-0.vercel.app/]([https://hng-12-2.onrender.com](https://hng-12-backend-stage-0.vercel.app/))
+The API is hosted at: [https://hng-12-backend-stage-0.vercel.app/](https://hng-12-backend-stage-0.vercel.app/)
 
 ## Acceptance Criteria
 ### Functionality
