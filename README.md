@@ -8,7 +8,8 @@ This is a simple public API for the HNG12 Stage 0 Backend task. The API provides
 
 ## Technologies Used
 - TypeScript
-- Express
+- Node.js
+- Express.js
 - CORS
 
 ## Setup Instructions
